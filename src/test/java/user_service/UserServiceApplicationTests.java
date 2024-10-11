@@ -1,10 +1,10 @@
-package com.example.rest_service;
+package user_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestServiceApplicationTests {
+class UserServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
